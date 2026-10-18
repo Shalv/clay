@@ -1,3 +1,30 @@
+# Coreenact — editorial redesign
+
+The coreenact.com site rebuilt in the visual language of the Squarespace
+*Design Intelligence* page: a single light editorial theme — near-black hero,
+oversized tracked display type, generous whitespace, hairline rules — with
+colour carried only by the Coreenact mark and the Microsoft product logos.
+
+All site content, data, routes, the enquiry/mail pipeline, the live-chat widget,
+the ROI estimator and the add-on catalogue are unchanged.
+
+**See [`REDESIGN.md`](./REDESIGN.md) for the full list of what changed.**
+
+| | |
+| --- | --- |
+| Stack | React 19 + TypeScript, Vite, Tailwind v4 |
+| Type | Archivo (display + body) |
+| Palette | ink `#0a0a0a` · paper `#ffffff` · cream `#f3f0ea` · line `#e2ddd2` |
+
+```bash
+npm install
+npm run dev      # local dev server
+npm run build    # production bundle
+npm run lint     # tsc --noEmit
+```
+
+---
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
