@@ -1,0 +1,15 @@
+# Coreenact — https://www.coreenact.com
+# Everything here is public and meant to be crawled, including by AI agents.
+# Only server endpoints and one-tap consultant sessions are excluded.
+
+User-agent: *
+Allow: /
+
+# Express API routes, not content pages.
+Disallow: /api/
+
+# A consultant-reply link is a live chat session, not a page worth indexing.
+Disallow: /*?replySession=
+Disallow: /*?reply=
+
+Sitemap: https://www.coreenact.com/sitemap.xml

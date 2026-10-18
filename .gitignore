@@ -1,0 +1,21 @@
+node_modules
+
+# Local secrets - GRAPH_CLIENT_SECRET / SMTP_PASS for the enquiry mailer live here.
+# This repo is public, so a committed .env is a published credential.
+.env
+.env.local
+.env.*.local
+
+# Build output
+/dist/
+
+# Employee data — must never be committed to this public repo
+/Employees_Master_List_*.csv
+
+# Loose brand-asset downloads kept at the repo root. The processed, trimmed
+# copies live in public/logos/, so these are only ever working files.
+/*.zip
+/*.png
+/*.jpg
+/*.jpeg
+/*.webp

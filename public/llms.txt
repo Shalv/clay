@@ -1,0 +1,135 @@
+# Coreenact
+
+> Official Microsoft Solutions Partner for Dynamics 365 Business Central: ERP implementation, NAV-to-Cloud migrations, India GST localization, agentic AI on the Microsoft stack, and 24/7 managed support. Delivery hubs in Haryana, India and Mississauga, Canada.
+
+Coreenact is a business consulting and digital transformation partner helping mid-market and enterprise organizations translate strategic ambition into operational results. Work combines business process redesign, enterprise technology advisory and end-to-end implementation to modernize ERP ecosystems, connect business functions and embed AI-driven automation.
+
+The site is a single-page application; every page below has its own stable URL and can be fetched directly.
+
+## Pages
+
+- [Home](https://www.coreenact.com/): Practice overview, solution pillars, Business Central add-on suite, technology stack and global delivery hubs
+- [Services](https://www.coreenact.com/services): Full-lifecycle Business Central services — implementation, NAV cutovers, upgrades, data migration, integration, GST localization and managed support
+- [Solutions](https://www.coreenact.com/solutions): Enterprise solution pillars including Dynamics 365 core ERP, data and AI, scale and localization, security and governance, and EdCore education ERP
+- [Industries](https://www.coreenact.com/industries): Industry blueprints for manufacturing, FMCG and wholesale distribution, retail, education and cold-chain supply
+- [AI & Agents](https://www.coreenact.com/ai-agents): Microsoft Copilot 101 guide, Copilot Studio agent architecture, autonomous ERP agents and Graph grounding
+- [Digital Marketing](https://www.coreenact.com/digital-marketing): Demand generation, SEO, paid media and marketing automation services
+- [Case Studies](https://www.coreenact.com/case-studies): Enterprise engagement outcomes with measured results
+- [Resources](https://www.coreenact.com/resources): Official Microsoft documentation links, release wave roadmaps, India GST guides and MB-800 certification material
+- [About](https://www.coreenact.com/about): Five-phase delivery framework, Microsoft partner competencies and leadership
+- [Contact](https://www.coreenact.com/contact): Offices in Haryana, India and Mississauga, Canada, plus an ROI estimator for licensing and implementation cost
+- [Privacy Policy](https://www.coreenact.com/privacy-policy): What the website collects (enquiry forms, live chat, browser local storage), who processes it and how to exercise privacy rights
+
+## Service practices
+
+Each practice has its own page under /services/ with lifecycle phases, deliverables and business value.
+
+- [ERP Implementation & Consulting](https://www.coreenact.com/services/erp-consulting): Turnkey Dynamics 365 Business Central and F&O deployments on a five-phase methodology
+- [NAV to Cloud Migration](https://www.coreenact.com/services/nav-migration): C/AL to AL refactoring and data cleanse for moving Dynamics NAV to Business Central SaaS
+- [ERP Audit & Health Check](https://www.coreenact.com/services/erp-audit): Independent diagnostics on code cleanliness, performance, security and license utilization
+- [Global ERP Rollouts](https://www.coreenact.com/services/global-rollouts): Multi-country, multi-entity rollouts on a governed core template
+- [India Localization & Tax Compliance](https://www.coreenact.com/services/india-localization): GST, TDS, TCS, e-Invoicing, e-Way Bill and Indian accounting standards in Business Central
+- [Security, Governance & Compliance](https://www.coreenact.com/services/security-governance): Role-based access, segregation of duties and Microsoft Entra ID integration
+- [Continuous Managed Services & Support](https://www.coreenact.com/services/managed-services): SLA-driven Tier 1-3 support, release wave testing and dedicated solution architect
+
+## Solution pillars
+
+Each pillar has its own page under /solutions/ listing its capability modules.
+
+- [Run & Transform](https://www.coreenact.com/solutions/run-transform): Dynamics 365 core ERP, CRM, AI agents in ERP, OCR and Power Platform
+- [Data, AI & Insights](https://www.coreenact.com/solutions/data-ai-insights): Power BI dashboards, Jet Reports, Microsoft Fabric and OneLake, data advisory
+- [Scale & Localize](https://www.coreenact.com/solutions/scale-localize): Global rollouts, India statutory compliance and NAV-to-cloud migration
+- [Secure & Govern](https://www.coreenact.com/solutions/secure-govern): RBAC and governance, ERP health checks, 24/7 managed services
+- [AI & Productivity](https://www/coreenact.com/solutions/ai-productivity): Copilot for Business Central, custom agentic AI and transformation advisory
+- [EdCore Education ERP & LMS](https://www.coreenact.com/solutions/edcore-solution): Admissions, fees, timetable engine and student portal on the Microsoft stack
+
+## Capability modules
+
+Every module shown inside a pillar also has its own page under /solutions/.
+
+- [Dynamics 365 Business Central](https://www.coreenact.com/solutions/dynamics-365-business-central): Cloud ERP for financials, manufacturing, jobs and inventory
+- [Dynamics 365 Finance & Operations](https://www.coreenact.com/solutions/dynamics-365-finance-operations): Enterprise supply chain ERP for high-volume multinationals
+- [Dynamics 365 CRM](https://www.coreenact.com/solutions/dynamics-365-crm): Customer Engagement — sales, marketing journeys and service desks
+- [AI Agent in ERP](https://www.coreenact.com/solutions/ai-agent-in-erp): Autonomous agents acting inside Business Central
+- [AI-OCR Document Recognition](https://www.coreenact.com/solutions/ai-ocr-document-recognition): Deep-learning capture of vendor and financial documents
+- [Power Apps & Power Automate](https://www.coreenact.com/solutions/power-apps-power-automate): Low-code apps and workflow automation on the ERP data model
+- [Power BI Executive Dashboards](https://www.coreenact.com/solutions/power-bi-executive-dashboards): Executive telemetry across finance and operations
+- [Jet Reports for Business Central](https://www.coreenact.com/solutions/jet-reports-for-business-central): Financial modelling and reporting in Excel
+- [Microsoft Fabric & OneLake](https://www.coreenact.com/solutions/microsoft-fabric-onelake): Unified lakehouse for ERP and warehouse data
+- [Data & AI Advisory](https://www.coreenact.com/solutions/data-ai-advisory): Governance and platform strategy for enterprise data
+- [Global ERP Rollouts](https://www.coreenact.com/solutions/global-erp-rollouts): Multi-entity, multi-country deployment on a core template
+- [India Localization & Statutory Compliance](https://www.coreenact.com/solutions/india-localization-statutory-compliance): GST, e-Invoicing and e-Way Bill inside Business Central
+- [NAV to Cloud Migration](https://www.coreenact.com/solutions/nav-to-cloud-migration): C/AL to AL refactoring and on-premises-to-SaaS cutover
+- [Security & Role Governance (RBAC)](https://www.coreenact.com/solutions/security-role-governance-rbac): Entra ID roles, segregation of duties and access reviews
+- [ERP Audit & Health Check](https://www.coreenact.com/solutions/erp-audit-health-check): Architectural diagnostics of code, performance and licensing
+- [24/7 Managed Services & Support](https://www.coreenact.com/solutions/24-7-managed-services-support): SLA operations desk and release wave support
+- [Microsoft Copilot for Business Central](https://www.coreenact.com/solutions/microsoft-copilot-for-business-central): Generative Copilot embedded in ERP pages
+- [Custom Agentic AI Solutions](https://www.coreenact.com/solutions/custom-agentic-ai-solutions): Multi-agent orchestration built for your processes
+- [Digital Transformation Advisory](https://www.coreenact.com/solutions/digital-transformation-advisory): Executive roadmap for the intelligent digital core
+- [Student Lifecycle & Admissions](https://www.coreenact.com/solutions/student-lifecycle-admissions): Admissions workflow and student registry
+- [Automated Fee & Financial Accounting](https://www.coreenact.com/solutions/automated-fee-financial-accounting): Fee structures, gateways and bursar accounting
+- [Academic Planning & Timetable Engine](https://www.coreenact.com/solutions/academic-planning-timetable-engine): Conflict-free scheduling of faculty, rooms and batches
+- [Integrated LMS & Student Portal](https://www.coreenact.com/solutions/integrated-lms-student-portal): Self-service learning platform tied to ERP records
+
+## Industry blueprints
+
+Each sector has its own page under /industries/ with friction points, engineered outcomes and pre-configured Dynamics 365 capabilities.
+
+- [Manufacturing](https://www.coreenact.com/industries/manufacturing): Discrete manufacturing, BOM costing and shop-floor control
+- [FMCG](https://www.coreenact.com/industries/fmcg): High-velocity consumer goods, trade schemes and demand planning
+- [Retail](https://www.coreenact.com/industries/retail): Omnichannel commerce, loyalty and store operations
+- [Education](https://www.coreenact.com/industries/education): Institutions running admissions, fees and academics on one core
+- [Professional Services](https://www.coreenact.com/industries/professional-services): Project economics, resourcing and billing
+- [Construction](https://www.coreenact.com/industries/construction): Job costing, contracts and site procurement
+- [Maritime & Logistics](https://www.coreenact.com/industries/maritime-logistics): Fleet, freight and voyage operations
+- [Healthcare](https://www.coreenact.com/industries/healthcare): Clinical supply chain and back-office administration
+- [Distribution](https://www.coreenact.com/industries/distribution): Wholesale distribution, warehousing and cold chain
+
+## AI & Agents topics
+
+Every Copilot 101 card has its own page under /ai-agents/ with capabilities, execution workflow and governance notes.
+
+- [Document Creation & Intelligent Editing](https://www.coreenact.com/ai-agents/copilot-word-docs): Copilot in Word
+- [Data Analysis, Formulas & Python Modeling](https://www.coreenact.com/ai-agents/copilot-excel-data): Copilot in Excel
+- [Project Management & Meeting Action Items](https://www.coreenact.com/ai-agents/copilot-teams-pm): Copilot in Teams
+- [Communication & Inbox Summarization](https://www.coreenact.com/ai-agents/copilot-outlook-comms): Copilot in Outlook
+- [Presentation Design & Slide Generation](https://www.coreenact.com/ai-agents/copilot-powerpoint-design): Copilot in PowerPoint
+- [Autonomous ERP Workflows & Accounting Intelligence](https://www.coreenact.com/ai-agents/copilot-d365-erp): Copilot in Dynamics 365
+- [How a Copilot Uses AI and Machine Learning](https://www.coreenact.com/ai-agents/copilot-architecture-nlp): Copilot architecture
+- [Different Types of AI Agents](https://www.coreenact.com/ai-agents/copilot-types-agents): Agent taxonomy
+- [How to Build an AI Agent in Copilot Studio](https://www.coreenact.com/ai-agents/copilot-build-studio): Copilot Studio
+- [What is Autonomous AI?](https://www.coreenact.com/ai-agents/copilot-autonomous-ai): Autonomous agent foundations
+- [Retail & Omnichannel Commerce](https://www.coreenact.com/ai-agents/industry-retail): AI agents by industry
+- [Financial Services & Banking](https://www.coreenact.com/ai-agents/industry-finance): AI agents by industry
+- [Healthcare & Clinical Operations](https://www.coreenact.com/ai-agents/industry-healthcare): AI agents by industry
+- [Higher Education & Institutions](https://www.coreenact.com/ai-agents/industry-education): AI agents by industry
+- [Government & Public Sector](https://www.coreenact.com/ai-agents/industry-government): AI agents by industry
+- [Manufacturing & Supply Chain](https://www.coreenact.com/ai-agents/industry-manufacturing): AI agents by industry
+- [AI Automation for Modern Business](https://www.coreenact.com/ai-agents/solution-ai-automation): Business AI solutions
+- [Workflow Automation Tools & Power Platform](https://www.coreenact.com/ai-agents/solution-workflow-tools): Business AI solutions
+- [Transform Operations with GPT Builders](https://www.coreenact.com/ai-agents/solution-gpt-builder): Business AI solutions
+- [Streamline Campaigns with AI Marketing](https://www.coreenact.com/ai-agents/solution-ai-marketing): Business AI solutions
+- [AI in Software & ERP AL Development](https://www.coreenact.com/ai-agents/solution-ai-software): Business AI solutions
+- [AI in Architecture & Complex Projects](https://www.coreenact.com/ai-agents/solution-ai-architecture): Business AI solutions
+- [AI in Sales: Tools, Workflows & Best Practices](https://www.coreenact.com/ai-agents/story-sales-ai): Related story
+- [AI for Legal Research: Tools and Best Practices](https://www.coreenact.com/ai-agents/story-legal-ai): Related story
+- [Transform Human Resources with the AI Advantage](https://www.coreenact.com/ai-agents/story-hr-ai): Related story
+- [Streamline Marketing Campaigns with AI Tools](https://www.coreenact.com/ai-agents/story-marketing-ai): Related story
+- [AI in Architecture: Streamlining Projects & Lifecycles](https://www.coreenact.com/ai-agents/story-architecture-ai): Related story
+- [Understanding Types of AI Agents](https://www.coreenact.com/ai-agents/story-agent-types): Related story
+- [What Are AI Chatbots and How Do They Work?](https://www.coreenact.com/ai-agents/story-chatbots-explained): Related story
+- [How to Build an AI Chatbot with Copilot Studio](https://www.coreenact.com/ai-agents/story-build-chatbot): Related story
+- [Transforming Business Operations with GPT Builders](https://www.coreenact.com/ai-agents/story-gpt-builders): Related story
+- [Accelerating Innovation with AI in Software Development](https://www.coreenact.com/ai-agents/story-software-dev-ai): Related story
+
+## Key facts
+
+- Partner status: Official Microsoft Solutions Partner
+- Primary product: Microsoft Dynamics 365 Business Central, plus Finance & Operations, CRM, Power Platform, Azure and Copilot
+- Phone: +91 84487 96169
+- Add-on suite: nine Business Central extensions including HRMS Portal, Vendor & Customer Portal, In-App Approval System, WhatsApp Shopify integration and e-Invoice / e-Way Bill
+
+## Optional
+
+- [Add-on suite](https://www.coreenact.com/): nine Business Central extensions, each also reachable at /addons/<module-slug>
+- [Sitemap](https://www.coreenact.com/sitemap.xml): machine-readable list of all routes

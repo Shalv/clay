@@ -1,0 +1,6 @@
+{
+  "name": "Coreenact - Microsoft Dynamics 365 Business Central Partner",
+  "description": "Enterprise Microsoft Solutions Partner specializing in Microsoft Dynamics 365 Business Central implementations, NAV to Cloud migrations, India GST localization, and 24/7 managed support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

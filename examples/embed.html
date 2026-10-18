@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coreenact Copilot Studio Site Agent - Embed Sandbox</title>
+  <link rel="icon" type="image/png" href="/favicon-512x512.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      font-family: 'Poppins', -apple-system, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f8fafc;
+      color: #0f172a;
+    }
+    .header {
+      background: #0078D4;
+      color: white;
+      padding: 24px 32px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      box-shadow: 0 4px 12px rgba(0, 120, 212, 0.2);
+    }
+    .header img {
+      width: 44px;
+      height: 44px;
+      object-fit: contain;
+    }
+    .header h1 {
+      margin: 0;
+      font-size: 22px;
+      font-weight: 700;
+    }
+    .header p {
+      margin: 4px 0 0 0;
+      font-size: 13px;
+      opacity: 0.9;
+    }
+    .container {
+      max-width: 1100px;
+      margin: 32px auto;
+      padding: 0 24px;
+    }
+    .card {
+      background: white;
+      border-radius: 16px;
+      border: 1px solid #e2e8f0;
+      padding: 28px;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    }
+    .badge {
+      display: inline-block;
+      background: #e0f2fe;
+      color: #0284c7;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 4px 10px;
+      border-radius: 12px;
+      margin-bottom: 12px;
+    }
+    h2 {
+      margin: 0 0 12px 0;
+      font-size: 18px;
+    }
+    p {
+      color: #475569;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+    pre {
+      background: #0f172a;
+      color: #38bdf8;
+      padding: 18px;
+      border-radius: 10px;
+      overflow-x: auto;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+    .btn {
+      background: #0078D4;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 13px;
+      font-weight: 600;
+      border-radius: 8px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 8px;
+    }
+    .btn:hover {
+      background: #005a9e;
+    }
+    .feature-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+    .feature-box {
+      border: 1px solid #e2e8f0;
+      border-radius: 12px;
+      padding: 16px;
+      background: #f8fafc;
+    }
+    .feature-box h3 {
+      margin: 0 0 6px 0;
+      font-size: 14px;
+      color: #0078D4;
+    }
+    .feature-box p {
+      margin: 0;
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <img src="/copilot-agent-logo.webp" alt="Copilot Agent Logo">
+    <div>
+      <h1>Coreenact Copilot Studio Site Agent</h1>
+      <p>Embeddable AI Advisory & Autonomous Lead Qualification Widget</p>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="card">
+      <span class="badge">Standalone Deployment</span>
+      <h2>1-Click Embed Snippet for Any Website</h2>
+      <p>
+        Drop this lightweight, zero-dependency script tag before the closing <code>&lt;/body&gt;</code> tag on your website, WordPress, Webflow, Shopify, or portal. The agent will render a modern Copilot launcher, answer prospect queries on Microsoft Dynamics 365 Business Central, and automatically capture qualified leads into your CRM.
+      </p>
+
+      <pre id="codeSnippet">&lt;script 
+  src="https://ais-dev-akgow4ynsxqvnrenf7xtww-50785652055.asia-southeast1.run.app/chat-widget.js" 
+  data-agent-name="Coreenact Copilot" 
+  data-primary-color="#0078D4" 
+  data-position="right"
+  async&gt;
+&lt;/script&gt;</pre>
+
+      <button class="btn" id="copyBtn" onclick="copySnippet()">Copy Embed Code</button>
+      <span id="copiedNotice" style="display: none; color: #10b981; font-size: 13px; font-weight: 600; margin-left: 12px;">Copied to clipboard!</span>
+    </div>
+
+    <div class="card">
+      <h2>Agent Capabilities</h2>
+      <div class="feature-grid">
+        <div class="feature-box">
+          <h3>Autonomous Lead Qualification</h3>
+          <p>Identifies high-intent prospects inquiring about ERP implementations, migrations, or GST localization and collects contact details directly inside chat.</p>
+        </div>
+        <div class="feature-box">
+          <h3>Microsoft Copilot Studio Branding</h3>
+          <p>Features the official Copilot Studio agent design with fluid multi-sphere geometry, gradient accents, and responsive layout.</p>
+        </div>
+        <div class="feature-box">
+          <h3>Direct Microsoft 365 CRM Routing</h3>
+          <p>Dispatches notifications to Info@coreenact.com and records qualified opportunities with scoring and requirements history.</p>
+        </div>
+        <div class="feature-box">
+          <h3>Zero Dependencies</h3>
+          <p>Single standalone script under 15KB with no React, jQuery, or framework requirements on the hosting site.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Test Embedded Chat Widget Live -->
+  <script src="/chat-widget.js" data-agent-name="Coreenact Copilot" data-primary-color="#0078D4" data-position="right"></script>
+
+  <script>
+    function copySnippet() {
+      const text = document.getElementById('codeSnippet').innerText;
+      navigator.clipboard.writeText(text).then(() => {
+        const notice = document.getElementById('copiedNotice');
+        notice.style.display = 'inline';
+        setTimeout(() => { notice.style.display = 'none'; }, 2500);
+      });
+    }
+  </script>
+</body>
+</html>
